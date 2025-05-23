@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* src/app/globals.css */
+body {
+  background: #f8f8f8;
+  font-family: sans-serif;
+}
